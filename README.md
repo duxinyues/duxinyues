@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-
-<--
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 贵州远东诚信管理有限公司
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning JavaScript、react
 - 👯 I’m looking to collaborate on  保密
 - 🤔 I’m looking for help with 待定
@@ -13,8 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yongyuan253015@gmail.com
 - 😄 Pronouns: 读心悦，读心，读自己
 - ⚡ Fun fact: 阅读
-
--->
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duxinyues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
