@@ -11,9 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 读心悦，读心，读自己
 - ⚡ Fun fact: 阅读
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duxinyues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duxinyues&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
