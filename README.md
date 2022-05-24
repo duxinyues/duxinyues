@@ -2,12 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on 启明云端
 - 🌱 I’m currently learning JavaScript、react
-- 👯 I’m looking to collaborate on  保密
-- 🤔 I’m looking for help with 待定
 - 💬 Ask me about http://qingzhuyue.cn/
-- 📫 How to reach me: yongyuan253015@gmail.com
+- 📫 How to reach me: 1638877065@qq.com
 - 😄 Pronouns: 读心悦，读心，读自己
 - ⚡ Fun fact: 阅读
 
