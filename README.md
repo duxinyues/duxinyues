@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 启明云端
+- 🔭 I’m currently working on 深圳启明智显科技有限公司
 - 🌱 I’m currently learning JavaScript、react
 - 💬 Ask me about http://qingzhuyue.cn/
 - 📫 How to reach me: 1638877065@qq.com
