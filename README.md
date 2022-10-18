@@ -4,7 +4,7 @@
 ## 学习计划：
 1. React源码
 2. React Native的基础教程
-3. React Native开发应用【今日诗词API】
+3. Electron应用
 4. Flutter基础教程
 
 
