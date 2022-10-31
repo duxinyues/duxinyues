@@ -2,10 +2,9 @@
 
 
 ## 学习计划：
-1. React源码
-2. React Native的基础教程
-3. Electron应用
-4. Flutter基础教程
+1. React Native的基础教程
+2. Electron应用
+3. Flutter基础教程
 
 
 ## JavaScript工具：
