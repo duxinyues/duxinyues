@@ -1,5 +1,8 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duxinyues)](https://github.com/anuraghazra/github-readme-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duxinyues&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duxinyues&theme=dracula&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duxinyues&theme=dracula)
 
 ## 学习计划：
 1. React Native的基础教程
