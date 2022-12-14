@@ -4,21 +4,15 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duxinyues&theme=dracula)
 
-<a href="https://github.com/pulls?q=author%3Akuizuo">
+<a href="https://github.com/pulls?q=author%3duxinyues">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=kuizuo&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="Shows 愧怍's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=kuizuo&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=duxinyues&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows 愧怍's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=duxinyues&theme=react&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
 
-### 👋 Hi there, I'm Kuizuo. 
-
-- 🧑 Student from China
-- 👨‍💻 Code enthusiast
-- 🌱 Keep learning, hoping to learn unlimited possibilities in a limited time.
-
-<a href="https://github.com/kuizuo">
-  <img align="right" src="https://metrics.lecoq.io/kuizuo?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
+<a href="https://github.com/duxinyues">
+  <img align="right" src="https://metrics.lecoq.io/duxinyues?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
 </a>
 
 
@@ -36,18 +30,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-
-#### ☎️ Find me
-
-- <img src="./icons/mail.svg"> [Email](mailto:hi@kuizuo.cn)
-- <img src="./icons/twitter.svg"> [Twitter](https://twitter.com/kuizuo)
-- <img src="./icons/article.svg"> [Blog](https://kuizuo.cn/)
-
-## 学习计划：
-1. React Native的基础教程
-2. Electron应用
-3. Flutter基础教程
 
 
 ## JavaScript工具：
