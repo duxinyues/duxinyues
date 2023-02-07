@@ -1,16 +1,32 @@
-name: WakaTime Readme
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - master
-  schedule:
-    - cron: '0 19 * * *'
+      - main
 
 jobs:
-  update-readme:
+  deploy:
+    name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v3
         with:
-          WAKATIME_API_KEY: ${{ secrets.DUXINYUE_KEY }}
+          node-version: 18
+          cache: yarn
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Build website
+        run: yarn build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.DUXINYUE_KEY }}
+          publish_dir: ./build
+          user_name: duxinyues
+          user_email: yongyuan253015@gmail.com
