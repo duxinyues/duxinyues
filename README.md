@@ -1,9 +1,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duxinyues&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duxinyues&layout=compact&theme=react)](https://github.com/duxinyues)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duxinyues&theme=dracula&utcOffset=8) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duxinyues&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duxinyues&layout=compact&theme=react)](https://github.com/duxinyues)
+
 
 <a href="https://github.com/duxinyues">
   <img align="right" src="https://metrics.lecoq.io/duxinyues?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
