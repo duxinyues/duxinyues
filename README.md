@@ -1,5 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duxinyues&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duxinyues&theme=dracula&utcOffset=8)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duxinyues&theme=dracula&utcOffset=8) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duxinyues&theme=dracula)
 
