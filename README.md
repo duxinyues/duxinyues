@@ -1,8 +1,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duxinyues&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duxinyues&layout=compact&theme=react)](https://github.com/duxinyues)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duxinyues&theme=dracula&utcOffset=8) 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duxinyues&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duxinyues&layout=compact&theme=react)](https://github.com/duxinyues)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duxinyues&theme=dracula&utcOffset=8) 
+
+
 
 
 
