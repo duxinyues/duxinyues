@@ -1,11 +1,11 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duxinyues&theme=dracula) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duxinyues&layout=compact&theme=react)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duxinyues&layout=compact&theme=react) -->
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duxinyues&theme=dracula&utcOffset=8) 
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duxinyues&theme=dracula&utcOffset=8)  -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duxinyues&theme=dracula)
 
-[![Alan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=duxinyues&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Alan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=duxinyues&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <a href="https://github.com/duxinyues/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
     <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=duxinyues&props.theme=dark&props.background=transparent&props.count=12&props.columns=4&props.rowGap=22&props.columnGap=80&props.legendSize=6&svg.width=880&svg.height=176">
