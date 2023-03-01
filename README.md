@@ -6,14 +6,10 @@
 
 [![Alan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=duxinyues&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--  <a href="https://github.com/duxinyues/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
+ <a href="https://github.com/duxinyues/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
     <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=duxinyues&props.theme=dark&props.background=transparent&props.count=12&props.columns=4&props.rowGap=22&props.columnGap=80&props.legendSize=6&svg.width=880&svg.height=176">
-  </a> -->
+  </a>
 
-
-<a href="https://github.com/duxinyues">
-  <img align="right" src="https://metrics.lecoq.io/duxinyues?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
-</a>
 
 
 ### 🛠 Tech Stack
