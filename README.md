@@ -34,7 +34,6 @@
 1. ESLint，代码格式
 2. Lodash.js，功能齐全并且很强大的JavaScript工具库，精简代码；
 3. TypeScript，静态类型
-4. Ramda.js，用函数描述世界
 
 ## Git 提交规范：
 
