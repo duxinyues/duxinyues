@@ -50,3 +50,8 @@
   - `ci` 持续集成
   - `types` 类型定义文件更改
   - `wip` 开发中
+
+## Git 生僻的命令：
+
+- `git update-index --assume-unchanged 文件路径`，暂时忽略文件的变更
+- 
