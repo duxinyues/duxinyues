@@ -1,4 +1,6 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duxinyues&theme=dracula) -->
+![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duxinyues&layout=compact&theme=react) -->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duxinyues&theme=dracula&utcOffset=8)  -->
@@ -11,7 +13,7 @@
     <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=duxinyues&props.theme=dark&props.background=transparent&props.count=12&props.columns=4&props.rowGap=22&props.columnGap=80&props.legendSize=6&svg.width=880&svg.height=176">
   </a> -->
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+
 
 
 ### 🛠 Tech Stack
