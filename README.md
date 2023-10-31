@@ -57,4 +57,4 @@
 ## Git 生僻的命令：
 
 - `git update-index --assume-unchanged 文件路径`，暂时忽略文件的变更
-- 
+- “git reset --hard 目标版本号”命令将版本回退
