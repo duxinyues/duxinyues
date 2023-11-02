@@ -42,6 +42,7 @@
 
   - `feat` 增加新功能
   - `fix` 修复问题/BUG
+  -  Optimize:需要填写对应需求来源
   - `style` 代码风格相关无影响运行结果的
   - `perf` 优化/性能提升
   - `refactor` 重构
