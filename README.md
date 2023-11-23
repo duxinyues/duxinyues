@@ -45,4 +45,4 @@
 - `git reset --hard 目标版本号`：将版本回退
 
 ## Linux命令：
-- 坎坎坷坷
+- scp /path/to/local/file username@server:/path/to/server/directory 终端命令上传文件至服务器
