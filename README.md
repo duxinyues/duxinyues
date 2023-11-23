@@ -43,6 +43,7 @@
 
 - `git update-index --assume-unchanged 文件路径`，暂时忽略文件的变更
 - `git reset --hard 目标版本号`：将版本回退
+- `git merge targetbranch`：将targetbranch合并到当前分支
 
 ## Linux命令：
 - scp /path/to/local/file username@server:/path/to/server/directory 终端命令上传文件至服务器
